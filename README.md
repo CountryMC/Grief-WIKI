@@ -1,5 +1,7 @@
 ---
 description: 🎮 IP » play.cmcgrief.net | Версия 1.13 - 1.20.1
+cover: .gitbook/assets/photo_2023-07-29_09-28-44.jpg
+coverY: -7
 ---
 
 # 👋 О проекте
